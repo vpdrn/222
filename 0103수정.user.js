@@ -21,7 +21,7 @@
     --bold-active: normal;
     --highlight-color: inherit;
     --tMini-url: none;
-    --tMini-size: 30px;
+    --tMini-size: 40px;
 }
 
 #t-mini {
@@ -52,7 +52,7 @@
     right: 0px;
     padding: 10px;
     transition: width 0.2s, height 0.2s;
-    backdrop-filter: blur(30px);
+    backdrop-filter: none(0px);
 }
 
 #extracted-text {
