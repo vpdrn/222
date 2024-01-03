@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         깡갤 노벨 AI 원터치 번역
+// @name         노벨 AI 원터치 번역
 // @namespace    https://novelai.net/
 // @version      2.2
 // @description  novel ai 보조툴 (번역용 추출 + css 커스텀 프리셋) + 익명 변환 통합 + 딥엘 api 통합
