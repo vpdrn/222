@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         수정어케함 ㅠ
+// @name         수정
 // @namespace    https://novelai.net/
 // @version      2.2
 // @description  novel ai 보조툴 (번역용 추출 + css 커스텀 프리셋) + 익명 변환 통합 + 딥엘 api 통합
@@ -509,8 +509,8 @@ span.hT {
 
         lastTapTime = currentTime;
 
-        if (tapCount === 2) {
-            // 세 번 탭할 때 수행할 동작
+        if (tapCount === 3) {
+            // 네 번 탭할 때 수행할 동작
             toggleSettings();
             tapCount = 0; // 초기화
         }
