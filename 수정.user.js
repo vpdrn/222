@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         수정0104
+// @name         수정함
 // @namespace    https://novelai.net/
 // @version      2.2
 // @description  novel ai 보조툴 (번역용 추출 + css 커스텀 프리셋) + 익명 변환 통합 + 딥엘 api 통합
@@ -52,7 +52,7 @@
     right: 0px;
     padding: 10px;
     transition: width 0.2s, height 0.2s;
-    backdrop-filter: none(0px);
+    backdrop-filter: blur(20px);
 }
 
 #extracted-text {
